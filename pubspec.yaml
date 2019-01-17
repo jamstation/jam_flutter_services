@@ -1,0 +1,26 @@
+name: jam_flutter_services
+description: A library of services for all jamstation flutter apps
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  # Mobile Framework
+  flutter:
+    sdk: flutter
+  # Jam Library
+  jam_dart_interfaces:
+    path: ../../dart/interfaces
+  jam_dart_models:
+    path: ../../dart/models
+  # Stream Framework
+  rxdart: ^0.18.0
+  # Database
+  firebase_core: ^0.2.5+1
+  cloud_firestore: ^0.8.2+3
+  firestore_helpers: ^2.0.7
+  # Location
+  geolocator: ^2.1.1
+
+dev_dependencies:
