@@ -1,5 +1,7 @@
 cloud_firestore=C:\\Users\\JAM\\Documents\\app_development\\frameworks\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.8.2+3\\
+firebase_auth=C:\\Users\\JAM\\Documents\\app_development\\frameworks\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.6.6\\
 firebase_core=C:\\Users\\JAM\\Documents\\app_development\\frameworks\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.2.5+1\\
 geolocator=C:\\Users\\JAM\\Documents\\app_development\\frameworks\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator-2.1.1\\
 google_api_availability=C:\\Users\\JAM\\Documents\\app_development\\frameworks\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_api_availability-1.0.4\\
+google_sign_in=C:\\Users\\JAM\\Documents\\app_development\\frameworks\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in-3.3.0\\
 permission_handler=C:\\Users\\JAM\\Documents\\app_development\\frameworks\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\permission_handler-2.1.2\\
